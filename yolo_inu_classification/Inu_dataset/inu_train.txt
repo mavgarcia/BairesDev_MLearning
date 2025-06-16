@@ -1,0 +1,13 @@
+C:/Users/mavga/darknet-master/build/darknet/x64/data/yolo_inu_dataset/img0.jpg
+C:/Users/mavga/darknet-master/build/darknet/x64/data/yolo_inu_dataset/img1.jpg
+C:/Users/mavga/darknet-master/build/darknet/x64/data/yolo_inu_dataset/img11.jpg
+C:/Users/mavga/darknet-master/build/darknet/x64/data/yolo_inu_dataset/img12.jpg
+C:/Users/mavga/darknet-master/build/darknet/x64/data/yolo_inu_dataset/img14.jpg
+C:/Users/mavga/darknet-master/build/darknet/x64/data/yolo_inu_dataset/img15.jpg
+C:/Users/mavga/darknet-master/build/darknet/x64/data/yolo_inu_dataset/img19.jpg
+C:/Users/mavga/darknet-master/build/darknet/x64/data/yolo_inu_dataset/img2.jpg
+C:/Users/mavga/darknet-master/build/darknet/x64/data/yolo_inu_dataset/img4.jpg
+C:/Users/mavga/darknet-master/build/darknet/x64/data/yolo_inu_dataset/img5.jpg
+C:/Users/mavga/darknet-master/build/darknet/x64/data/yolo_inu_dataset/img6.jpg
+C:/Users/mavga/darknet-master/build/darknet/x64/data/yolo_inu_dataset/img8.jpg
+C:/Users/mavga/darknet-master/build/darknet/x64/data/yolo_inu_dataset/img9.jpg
